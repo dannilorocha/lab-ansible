@@ -1,0 +1,5 @@
+[Lab]
+ansible-client
+
+[test:children]
+Lab
